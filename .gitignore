@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Env
+.env
+venv/
+.venv/
+
+# Data outputs
+docs/evidencias/*.json
+docs/evidencias/*.md
+docs/evidencias/frames/
+data/samples/*
+data/yolo_dataset/*
+
+# OS
+.DS_Store
+Thumbs.db

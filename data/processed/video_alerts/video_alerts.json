@@ -1,0 +1,206 @@
+{
+  "case_id": "case_val_frames",
+  "source": "runs\\detect\\runs\\detect\\predict",
+  "fps_assumed": 25,
+  "rules": {
+    "critical_class": "SpecimenBag",
+    "many_tools_threshold": 3,
+    "many_tools_min_frames": 25,
+    "prolonged_min_frames": 75
+  },
+  "alerts_count": 24,
+  "alerts": [
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 30,
+      "end_frame": 39,
+      "start_time_sec": 1.2,
+      "end_time_sec": 1.56
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 59,
+      "end_frame": 59,
+      "start_time_sec": 2.36,
+      "end_time_sec": 2.36
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 94,
+      "end_frame": 101,
+      "start_time_sec": 3.76,
+      "end_time_sec": 4.04
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 106,
+      "end_frame": 106,
+      "start_time_sec": 4.24,
+      "end_time_sec": 4.24
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 109,
+      "end_frame": 112,
+      "start_time_sec": 4.36,
+      "end_time_sec": 4.48
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 216,
+      "end_frame": 228,
+      "start_time_sec": 8.64,
+      "end_time_sec": 9.12
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 230,
+      "end_frame": 234,
+      "start_time_sec": 9.2,
+      "end_time_sec": 9.36
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 236,
+      "end_frame": 240,
+      "start_time_sec": 9.44,
+      "end_time_sec": 9.6
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 264,
+      "end_frame": 264,
+      "start_time_sec": 10.56,
+      "end_time_sec": 10.56
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 281,
+      "end_frame": 287,
+      "start_time_sec": 11.24,
+      "end_time_sec": 11.48
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 308,
+      "end_frame": 325,
+      "start_time_sec": 12.32,
+      "end_time_sec": 13.0
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 418,
+      "end_frame": 427,
+      "start_time_sec": 16.72,
+      "end_time_sec": 17.08
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 452,
+      "end_frame": 453,
+      "start_time_sec": 18.08,
+      "end_time_sec": 18.12
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 456,
+      "end_frame": 456,
+      "start_time_sec": 18.24,
+      "end_time_sec": 18.24
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 458,
+      "end_frame": 462,
+      "start_time_sec": 18.32,
+      "end_time_sec": 18.48
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 477,
+      "end_frame": 477,
+      "start_time_sec": 19.08,
+      "end_time_sec": 19.08
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 481,
+      "end_frame": 481,
+      "start_time_sec": 19.24,
+      "end_time_sec": 19.24
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 488,
+      "end_frame": 493,
+      "start_time_sec": 19.52,
+      "end_time_sec": 19.72
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 497,
+      "end_frame": 500,
+      "start_time_sec": 19.88,
+      "end_time_sec": 20.0
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 502,
+      "end_frame": 502,
+      "start_time_sec": 20.08,
+      "end_time_sec": 20.08
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 621,
+      "end_frame": 629,
+      "start_time_sec": 24.84,
+      "end_time_sec": 25.16
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 665,
+      "end_frame": 681,
+      "start_time_sec": 26.6,
+      "end_time_sec": 27.24
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 775,
+      "end_frame": 781,
+      "start_time_sec": 31.0,
+      "end_time_sec": 31.24
+    },
+    {
+      "type": "CRITICAL_INSTRUMENT",
+      "class": "SpecimenBag",
+      "start_frame": 787,
+      "end_frame": 790,
+      "start_time_sec": 31.48,
+      "end_time_sec": 31.6
+    }
+  ]
+}

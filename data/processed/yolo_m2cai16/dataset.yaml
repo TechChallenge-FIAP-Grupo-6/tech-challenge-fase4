@@ -1,0 +1,12 @@
+path: data/processed/yolo_m2cai16
+train: images/train
+val: images/val
+nc: 7
+names:
+  - Grasper
+  - Bipolar
+  - Hook
+  - Scissors
+  - Clipper
+  - Irrigator
+  - SpecimenBag
